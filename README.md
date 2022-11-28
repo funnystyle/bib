@@ -1,2 +1,2 @@
-# bib
+# BIB
 books I bought
